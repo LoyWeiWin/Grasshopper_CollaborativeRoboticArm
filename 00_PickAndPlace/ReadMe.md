@@ -14,7 +14,7 @@ This repo is dedicated for anything related to pick and place procedure. Given t
 3. Fologram [Optional]
 
 ### Task lists
--[ ] Rhino File
--[ ] Documentation
--[ ] Grasshopper
--[ ] STL / STP file
+- [ ] Rhino File
+- [ ] Documentation
+- [ ] Grasshopper
+- [ ] STL / STP file
