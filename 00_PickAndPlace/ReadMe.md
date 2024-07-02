@@ -12,6 +12,7 @@ This repo is dedicated for anything related to pick and place procedure. Given t
 1. Rhino 7 or latest
 2. Robot plugin
 3. Fologram [Optional]
+4. PhyX. https://www.food4rhino.com/en/app/physxgh
 
 ### Task lists
 - [ ] Rhino File
