@@ -1,21 +1,15 @@
 # Miscellaneous Grasshopper Definitions
 
-Welcome to the Miscellaneous Grasshopper Definitions repository! This repo is a collection of various Grasshopper definitions that might be useful for different design and modeling tasks. These definitions are not specifically associated with any robotic applications but are valuable resources for enhancing your Grasshopper workflows.
+Welcome to the Miscellaneous Grasshopper Definitions repository! This repo is a collection of various Grasshopper definitions that might be useful for different robotic application. These definitions are not specifically associated with any robotic applications but are valuable resources for enhancing your Grasshopper workflows.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Repository Structure](#repository-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-## Introduction
-
-Grasshopper is a visual programming language and environment that runs within the Rhino 3D CAD software. It is widely used for parametric design, allowing designers to create complex forms and patterns through algorithms and data-driven processes.
-
-This repository contains a variety of Grasshopper definitions that cover a wide range of functionalities. Whether you're working on architectural designs, geometric explorations, or parametric modeling, you'll find useful scripts here to streamline your process.
 
 ## Repository Structure
 
@@ -24,34 +18,12 @@ The repository is organized into folders based on the type of functionality prov
 - Grasshopper definition files (`.gh`)
 - A README file explaining the purpose and usage of the definitions within that folder
 
-### Example Structure
-
-```
-misc-grasshopper-definitions/
-│
-├── Geometry/
-│   ├── MeshOperations.gh
-│   └── README.md
-│
-├── DataManipulation/
-│   ├── ListOperations.gh
-│   └── README.md
-│
-├── SurfaceDesign/
-│   ├── Paneling.gh
-│   └── README.md
-│
-└── README.md
-```
 
 ## Usage
 
 To use any of the Grasshopper definitions in this repository:
 
 1. Clone the repository to your local machine using:
-   ```bash
-   git clone https://github.com/yourusername/misc-grasshopper-definitions.git
-   ```
 2. Open Rhino 3D.
 3. Launch Grasshopper from within Rhino.
 4. Open the desired Grasshopper definition (`.gh` file) from the repository.
@@ -85,8 +57,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 For any questions, suggestions, or feedback, feel free to reach out to:
 
-- Name: Wei Win
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Name: WeiWinLoy (Loy)
+- Email: [loyweiwin@gmail.com](mailto:loyweiwin@mail.com)
 
 Thank you for using and contributing to the Miscellaneous Grasshopper Definitions repository!
 
