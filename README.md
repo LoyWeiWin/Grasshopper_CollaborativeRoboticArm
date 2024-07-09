@@ -17,11 +17,18 @@ This repo is dedicated to using Rhino-Grasshopper with the Robot plugin, showcas
 - **Universal Robot (Offline Simulator)**: [URSim-Grasshopper-Link](https://github.com/a-vi-shek/URSim-Grasshopper-Link)
 
 
-## Getting Started
+## Getting Started for Github
 1. **Clone the repository**: `git clone https://github.com/LoyWeiWin/CollaborativeRoboticArm.git`
 2. **Install Dependencies**: Follow the `README.md` for plugin installation.
 3. **Explore Examples**: Learn from provided example projects.
 4. **Customize**: Adapt scripts to your project needs and contribute back.
+
+## Getting Started for Grasshopper
+1. **Grasshopper Environment**: Make sure always locked your grasshopper environment before you get started.
+
+## Frequently Asked Question
+1. **OfflineSimulator** : If you wish to use URSim (Offline Simulator) please follow [a-vi-shek's workflow](https://github.com/a-vi-shek/URSim-Grasshopper-Link) to download offline simulator
+2. **Robot Plugin** : Please use '_PackageManager' within the cmd prompt in Rhino to install the Robot plugin.
 
 ## Contributing
 Contributions are welcome! Please see our `CONTRIBUTING.md` for guidelines.
