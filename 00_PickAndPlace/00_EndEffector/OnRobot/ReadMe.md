@@ -1,1 +1,1 @@
-
+Using this grasshopper definition, you should be able to communicate with OnRobot Gripper, 2FGP20 and RG2-FT. The documentation for the end-effectors can be found here. https://onrobot.com/en/downloads
