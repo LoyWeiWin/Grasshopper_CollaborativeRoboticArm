@@ -1,0 +1,3 @@
+Forward kinematics in the context of robotic arms refers to the calculation of the position and orientation of the end-effector (the robot's hand or tool) based on the known values of the joint parameters. It involves using the joint angles (or linear displacements in the case of prismatic joints) and the geometry of the robot to determine the end-effector's location in space.
+
+In this case, the grasshopper definition will allow you control robot joint based on different rotation value (degree). However, please be aware that different robot type have different rotational limit (min value to max value). Please refer to the manufacturer's spec for more information
